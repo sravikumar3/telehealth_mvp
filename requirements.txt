@@ -1,0 +1,9 @@
+langchain==0.2.16
+langchain-community==0.2.16
+openai==1.40.0
+fastapi==0.112.0
+uvicorn==0.30.6
+pydantic==2.8.2
+streamlit==1.38.0
+python-dotenv==1.0.1
+scikit-learn==1.5.1
